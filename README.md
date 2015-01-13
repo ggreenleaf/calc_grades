@@ -28,19 +28,19 @@ Running the script
 	for example 4 classes 4390,4365, 4384, 4348 would have the structure
 
 	spring15
-	calc_grades.py
-	4390
-		grades
-			grades.txt
-	4384
-		grades
-			grades.txt
-	4348
-		grades
-			grades.txt
-	4365
-		grades
-			grades.txt
+		calc_grades.py
+		4390
+			grades
+				grades.txt
+		4384
+			grades
+				grades.txt
+		4348
+			grades
+				grades.txt
+		4365
+			grades
+				grades.txt
 
 	running the script to see grades for class 4390 would like this 
 	python calc_grades.py 4390
